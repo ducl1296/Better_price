@@ -1,0 +1,108 @@
+[
+    {
+        "nombre": "AMZ Sharge - Carcasa SSD M.2 NVMe",
+        "url": "https://www.amazon.com.mx/sharge-sistema-refrigeraci%C3%B3n-soporta-amarillo/dp/B0CFTNMW1W/ref=sr_1_30?crid=KCPZVL3SD1U1&dib=eyJ2IjoiMSJ9.oEbZfbXY4N-KHTOtuIsodSChSO-7TsD8y_6_9oGUVfzCYnSJyqi4_RcIJlwJV1P6NrIOhrNKh9liXwceTp1MVJ1nIxHuILgTn-29sfO1_BMvX16tV0Yv7Xit8pCUaZhx3twfuTBBxiXT9MzYJyCzeAMQOzj35XfMV-jeHLdvEUEwVAcfhaeIKWkc4587MLQfBxKv7XGSeD0xfKNE9pKjx9s7L3oaLOeqKerNSYTpuylE7qpNoCCfelxDwQ9NJ5oDnZAoTU7AR_6-hta8_74hWGQdfNXfjzEJpMPFpXQes04.kjZF3nRr0q6L1A9aqHbJq2egv-52rMXEZlLRSjqNzf8&dib_tag=se&keywords=ssd%2Bcase%2Bm.2&qid=1744189934&sprefix=ssd%2Bcase%2Caps%2C197&sr=8-30&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1&th=1",
+        "precio_deseado": 790.0,
+        "precio_actual": 789.0,
+        "selector_css": ".a-price-whole",
+        "separador_miles": ",",
+        "fecha_agregado": "2025-04-10 10:51:03",
+        "historial_precios": [
+            {
+                "fecha": "2025-04-10 10:51:03",
+                "precio": 789.0
+            },
+            {
+                "fecha": "2025-04-10 11:55:58",
+                "precio": 789.0
+            },
+            {
+                "fecha": "2025-04-10 12:18:18",
+                "precio": 789.0
+            },
+            {
+                "fecha": "2025-04-10 12:18:39",
+                "precio": 789.0
+            },
+            {
+                "fecha": "2025-04-10 12:21:02",
+                "precio": 789.0
+            },
+            {
+                "fecha": "2025-04-10 12:35:04",
+                "precio": 789.0
+            },
+            {
+                "fecha": "2025-04-10 12:36:39",
+                "precio": 789.0
+            },
+            {
+                "fecha": "2025-04-10 12:37:26",
+                "precio": 789.0
+            },
+            {
+                "fecha": "2025-04-10 12:37:39",
+                "precio": 789.0
+            },
+            {
+                "fecha": "2025-04-10 12:37:58",
+                "precio": 789.0
+            },
+            {
+                "fecha": "2025-04-10 12:38:45",
+                "precio": 789.0
+            }
+        ]
+    },
+    {
+        "nombre": "AMZ UGREEN 25000mAh 200W Nexode Power Bank",
+        "url": "https://www.amazon.com.mx/UGREEN-25000mAh-Powerbank-Inteligente-Compatible/dp/B0CXHM5RY2?ref_=ast_sto_dp",
+        "precio_deseado": 2970.0,
+        "precio_actual": 2969.0,
+        "selector_css": ".a-price-whole",
+        "separador_miles": ",",
+        "fecha_agregado": "2025-04-10 12:07:46",
+        "historial_precios": [
+            {
+                "fecha": "2025-04-10 12:07:46",
+                "precio": 2969.0
+            },
+            {
+                "fecha": "2025-04-10 12:18:20",
+                "precio": 2969.0
+            },
+            {
+                "fecha": "2025-04-10 12:18:41",
+                "precio": 2969.0
+            },
+            {
+                "fecha": "2025-04-10 12:21:05",
+                "precio": 2969.0
+            },
+            {
+                "fecha": "2025-04-10 12:35:07",
+                "precio": 2969.0
+            },
+            {
+                "fecha": "2025-04-10 12:36:42",
+                "precio": 2969.0
+            },
+            {
+                "fecha": "2025-04-10 12:37:29",
+                "precio": 2969.0
+            },
+            {
+                "fecha": "2025-04-10 12:37:42",
+                "precio": 2969.0
+            },
+            {
+                "fecha": "2025-04-10 12:38:00",
+                "precio": 2969.0
+            },
+            {
+                "fecha": "2025-04-10 12:38:47",
+                "precio": 2969.0
+            }
+        ]
+    }
+]
