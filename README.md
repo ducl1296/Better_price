@@ -1,5 +1,5 @@
-# Better_price
-Herramienta para seguir gastos en plataformas
+# Better_price 💰
+Herramienta para seguir gastos en plataformas basado en Web Scraping 🙈
 
 ## Instalacion
  Requieres Python3 para ejecutar los programas.
